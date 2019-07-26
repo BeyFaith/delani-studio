@@ -1,0 +1,17 @@
+.container{
+  text-align:center;
+}
+#welcome{
+
+  background-image:url("file:///home/wecode/Desktop/projects/delani-studio/img/img1.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+  
+  
+
+};
+
+h2 {
+font-size:10px;
+color:white;
+};
