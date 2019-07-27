@@ -35,22 +35,30 @@
   padding:50px;
 }
 #contact{
+  background-image: url("../img/c_image.jpg");
+  background-repeat: no-repeat;
+  background-position: cover;
   text-align:center;
-}
+  color:white;
+  height:500px;
+} 
 #contact>h3{
-  margin-bottom:20px;
+  margin-bottom:60px;
 }
 #message{
-  margin-top:40px;
+  margin-top:60px;
+  background-color: transparent;
 }
 #name{
-  margin-right:-335px;
-  padding-left:690px
+  padding-left:50px;
+  background-color: transparent;
   
 } 
 #email{
-  padding-left:-350px;
+ background-color: transparent;
+
 }
+
 
 
 
