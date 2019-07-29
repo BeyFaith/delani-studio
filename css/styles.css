@@ -4,7 +4,18 @@
 body{
   font-family: 'Poppins', sans-serif;
 }
+@media only screen and (min-width:320px) and (max-width:414px) {
+#welcome{ 
+  width: 35%;
+}
+#services{
+  width:35%;
+}
+#contact{
+  width:35%;
+}
 
+}
 
 .card-img-overlay{
   padding-top:180px;
