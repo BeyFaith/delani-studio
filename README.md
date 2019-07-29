@@ -14,7 +14,7 @@ This is a website for Delani Studio. When you open it and scroll down, you go fr
 * There is a hover effect on the portfolio section such that a white box appears with the name of the project appearing.
 * Clicking on the WHat we do icons i.e; design, development and product management creates a toogling effect.
 * After entering and filling personal details as required at the contact us section, a pop confirmation is displayed on the screen. Unless, either information is not entered then a pop alert that 
-* Choose gender
+* At the about us section there is a toggle effect, by clicking on the icons you get to see the description of the specific things that they do.
 ### Input Example
 * Enter your personal name in the name bar provided.
 * Enter you personal email in the space provided.
