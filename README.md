@@ -34,6 +34,6 @@ This is a website for Delani Studio. When you open it and scroll down, you go fr
 
 ## Support and contact details
 Thank you so much for taking your time to read my README , please feel free to contribute to my work as it has an open license(check below). For any questions or concerns you can email me at fryumugabe@gmail.com.
-You can check it out here:
+You can check it out here:https://beyfaith.github.io/delani-studio/
 ### License
 *GPL*
