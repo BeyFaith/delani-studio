@@ -106,6 +106,12 @@ $(document).ready(function(){
       alert(personalName + ' ,thanks for your message, someone from our team will reach out to you shortly.'); 
     }
       event.preventDefault();
+      $("#name").val(""); 
+      $("#email").val("");
+      $("#message").val("");
+      
   });
+
+  
 });
 
